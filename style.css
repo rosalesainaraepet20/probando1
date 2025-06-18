@@ -1,6 +1,36 @@
-.mensaje{
+p{
 
 color:aqua;}
-#hola{
+p#hola{
 
 color:bisque;}
+button{
+background-color:pink;
+color:palevioletred;
+}
+*{
+    margin: 1%;
+    color: blue;
+}
+body{
+    background-color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    color: aqua;
+    background-color: aliceblue;
+    padding: 1%;
+
+}
+p.mensaje{
+    background-color: blue;
+    padding: 1%;
+    border: 2px solid #051852;
+    display: inline;
+}
+
+p.caja{
+    background-color: antiquewhite;
+    color: #051852;
+
+}
